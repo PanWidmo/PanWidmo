@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Tomek</h1>
+<h3 align="center">Front-end Developer 🚀</h3>
+
+<br>
 
 Check my website: https://panwidmo.github.io/portfolio/
 
