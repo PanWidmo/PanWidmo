@@ -3,7 +3,14 @@
 
 <br>
 
-Check my website: https://panwidmo.github.io/portfolio/
+<p><img align="right" src="https://github.com/PanWidmo/PanWidmo/assets/animation.gif" alt="Animated programmer" 
+/></p>
+
+- 🌱 I’m currently improving my Web Development skills
+
+- 📫 How to reach me **tomaszbaranww@gmail.com**
+
+- ⚡ Check my website **https://panwidmo.github.io/portfolio/**
 
 <!--
 **PanWidmo/PanWidmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
