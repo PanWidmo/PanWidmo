@@ -9,7 +9,7 @@
 
 - 🚀 I’m currently improving my Web Development skills
 
-- ⚡ Check my website **https://panwidmo.github.io**
+- ⚡ Check my website **https://tomaszbaranww.github.io/**
 
 <br>
 
